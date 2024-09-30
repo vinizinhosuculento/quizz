@@ -8,7 +8,9 @@
     flex-basis:calc(33%);
     text-align:center;
     border-radius:10px;
-    
+}
+.cartao:hover{
+    background-color: rgb(61, 61, 160);
 }
 .cartao p{
     font-size: 40px;
