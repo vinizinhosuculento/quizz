@@ -10,11 +10,13 @@
     border-radius:10px;
 }
 .carta--conteudo{
-    background-color:rgba(59, 177, 138, 0.884);    
+    background-color:rgba(59, 177, 138, 0.884);   
+    transform-style:preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 .cartao:hover{
     background-color: rgb(61, 61, 160);   
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 
 }
 
