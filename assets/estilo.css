@@ -9,7 +9,7 @@
     text-align:center;
     border-radius:10px;
 }
-.carta--conteudo{
+.cartao--conteudo{
     background-color:rgba(59, 177, 138, 0.884);   
     transform-style:preserve-3d;
     transition: transform 300ms ease-in-out;
