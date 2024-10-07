@@ -9,7 +9,7 @@
     flex-grow:1;
     flex-basis:calc(3%);
     text-align:center;
-    border-radius:5px;
+    border-radius:10px;
 }
 .cartao--conteudo{
     background-color:rgba(59, 177, 138, 0.884);   
