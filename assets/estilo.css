@@ -5,7 +5,7 @@
 }
 .cartao{
     background-color:rgba(59, 177, 138, 0.884);
-    margin: 1rem 1rem;
+    margin: 1rem 5rem;
     flex-grow:1;
     flex-basis:calc(3%);
     text-align:center;
