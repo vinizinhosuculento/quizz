@@ -1,5 +1,4 @@
-body{
-    text-align: center;
+
 .conteudo{
     display: flex;
     flex-wrap: wrap;
@@ -46,4 +45,3 @@ footer{
      align-content: center;
      font-size: 16px;
 }  
-}
