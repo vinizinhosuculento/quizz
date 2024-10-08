@@ -1,5 +1,5 @@
 
-.conteudo{
+#conteudo{
     display: flex;
     flex-wrap: wrap;
 }

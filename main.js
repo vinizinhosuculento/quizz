@@ -1,4 +1,4 @@
 function criaCartao(pergunta, resposta){
-    console.log("testando cartao")
+let conteudo=document.getElementById("conteudo")
+console.log
 }
-criaCartao(1,2)
