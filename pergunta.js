@@ -1,4 +1,4 @@
 criaCartao(
-    "blabla"
-    "blabla"
+    "Qual a capital da Rússia?"
+    "Moscou"
 )
