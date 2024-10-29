@@ -15,7 +15,7 @@
     transform-style:preserve-3d;
     transition: transform 300ms ease-in-out;
 }
-.cartao.active.cartao--conteudo{
+.cartao.active .cartao--conteudo{
     background-color: rgb(61, 61, 160);   
     transform: rotateY(180deg);
 
