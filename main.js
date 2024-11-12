@@ -21,3 +21,4 @@ cartao.innerHTML=`
                         conteudo.appendchild(cartao)
  
                         }
+                    }
